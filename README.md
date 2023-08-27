@@ -13,3 +13,8 @@ $ cd examples && go run .
 Open the http://localhost:8089 in your browser, and you get lots of pretty charts now.
 
 For more charts' implementation details, please refer to ./examples folder.
+
+# TODO
+
+Fix wasm build to compile the Scatter3d data viz
+Refactor code to use PigeonsAI data embedding
